@@ -1,0 +1,1 @@
+export const useLog = (e) => {console.log(e)} 
